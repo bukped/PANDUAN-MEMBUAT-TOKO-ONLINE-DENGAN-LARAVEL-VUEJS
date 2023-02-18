@@ -1,0 +1,5 @@
+Git init
+Git add .
+Git commit -m “First Commit”
+Git remote add origin <URL>
+Git push –u origin master
