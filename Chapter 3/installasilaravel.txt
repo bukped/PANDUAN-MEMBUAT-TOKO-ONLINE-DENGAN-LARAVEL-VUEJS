@@ -1,0 +1,5 @@
+composer
+composer global require Laravel/installer
+Laravel new nama-proyek
+Cd namaproyek/
+Php artisan serve
