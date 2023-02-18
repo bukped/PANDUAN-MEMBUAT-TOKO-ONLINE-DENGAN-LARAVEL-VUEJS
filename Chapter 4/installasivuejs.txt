@@ -1,0 +1,6 @@
+Node -v
+Npm -v
+Npm install -g vue
+Vue create nama-proyek-anda
+Cd nama proyek
+Npm run serve
