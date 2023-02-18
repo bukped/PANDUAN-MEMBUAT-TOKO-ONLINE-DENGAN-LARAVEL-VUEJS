@@ -1,0 +1,1 @@
+Route::get('/api/products', ApiController@getProducts');
