@@ -1,0 +1,13 @@
+- Component pada Vue.js adalah unit reusable yang terdiri dari kode HTML, CSS, dan JavaScript yang memungkinkan pengguna untuk membagi aplikasi menjadi bagian-bagian yang lebih kecil dan terorganisir dengan baik. Component adalah fondasi dari Vue.js, yang memungkinkan pengguna untuk memecah aplikasi besar menjadi bagian-bagian yang lebih kecil dan mudah diatur.
+
+- Router pada Vue.js digunakan untuk memetakan tampilan aplikasi ke dalam URL tertentu. Dengan menggunakan router, pengguna dapat berpindah antara halaman dalam aplikasi tanpa perlu memuat ulang halaman web. Sebagai contoh, ketika pengguna mengklik tautan di navigasi, URL akan berubah dan router akan memuat komponen yang sesuai dengan URL tersebut. Dengan demikian, aplikasi Vue.js dapat terasa seperti aplikasi web tradisional, dengan navigasi yang halus dan responsif.
+
+Dalam Vue.js, router disediakan oleh library resmi bernama Vue Router. Vue Router menyediakan API yang mudah digunakan untuk memetakan rute ke komponen yang sesuai. Router ini juga menyediakan fitur-fitur seperti pembatasan akses ke halaman tertentu berdasarkan autentikasi, penggunaan query string, penanganan parameter dinamis pada URL, dan lain-lain.
+
+- Views pada Vue.js merupakan bagian dari tiga bagian utama dari arsitektur Vue.js, yang berfungsi untuk menampilkan data dan mengatur tampilan dari aplikasi web yang dibuat menggunakan Vue.js.
+
+Dalam views, pengembang dapat membuat template HTML yang menggambarkan tampilan dari aplikasi web. Vue.js menggunakan sintaks template HTML yang diperluas dengan tambahan sintaks JavaScript. Dengan menggunakan sintaks template HTML, kita dapat memisahkan kode HTML dari kode JavaScript, sehingga membuat kode menjadi lebih terstruktur dan mudah dipelajari.
+
+Views juga dapat mengatur perpindahan antarhalaman pada aplikasi web dengan menggunakan routing. Routing merupakan fitur yang memungkinkan kita untuk menentukan bagaimana halaman dalam aplikasi web diakses dan diatur. Dalam routing, pengembang dapat menentukan bagaimana URL yang diakses oleh pengguna akan dihubungkan dengan komponen-komponen dalam aplikasi Vue.js.
+
+Dalam Vue.js, views dapat menggunakan berbagai komponen-komponen yang sudah tersedia untuk membangun tampilan aplikasi web, dan juga dapat mengakses data yang terdapat pada state. Dalam state, data yang diakses oleh views diatur dan disimpan sehingga dapat diakses dan digunakan oleh komponen-komponen lain pada aplikasi web.
